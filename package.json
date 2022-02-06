@@ -1,0 +1,25 @@
+{
+  "name": "team-builder-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Autrose22/Team-Builder-Profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Autrose22/Team-Builder-Profile/issues"
+  },
+  "homepage": "https://github.com/Autrose22/Team-Builder-Profile#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
