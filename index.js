@@ -1,4 +1,4 @@
-const generateHTML = require('./src/HTML.js');
+const HTML = require('./src/HTML.js');
 const Manager = require('./lib/Manager');
 const Engineer = require('./lib/Engineer');
 const Intern = require('./lib/Intern'); 
