@@ -1,1 +1,4 @@
-const generateHTML = require('')
+const Prompt = require("./lib/Prompts");
+
+new Prompt().managerPrompt();
+

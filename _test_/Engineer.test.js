@@ -11,7 +11,7 @@ Test("create an engineer object", () => {
 
 test("gets engineer's name", () => {
     const engineer = new Engineer("Tim Drak", "td123456789", "td123456789@gamil.com", "td1230");
-    expect(engineer.name).toBe("Dave Thomas");
+    expect(engineer.name).toBe("Tim Drak");
 });
 
 test("gets engineer's id", () => {
@@ -34,4 +34,3 @@ test("gets engineer's role as object", () => {
 
     expect(engineer.getRole()).toBe("Engineer");
 });
-})
