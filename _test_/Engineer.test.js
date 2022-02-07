@@ -21,7 +21,7 @@ test("gets engineer's id", () => {
 
 test("gets engineer's email", () => {
     const engineer = new Engineer("Tim Drak", "td123456789", "td123456789@gamil.com", "td1230");
-    expect(engineer.email).toBe("td32001458@ipg.org");
+    expect(engineer.email).toBe("td32001458@gmail.com");
 });
 
 test("gets engineer's github", () => {

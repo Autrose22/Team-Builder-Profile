@@ -5,7 +5,7 @@ test("create a intern object", ()  => {
 
     expect(intern.name).toBe("Bruce Wayne");
     expect(intern.id).toBe("td32001458");
-    expect(intern.email).toBe("td32001458@ipg.org");
+    expect(intern.email).toBe("td32001458@gmail.com");
     expect(intern.school).toBe("Lone Star");
 });
 
